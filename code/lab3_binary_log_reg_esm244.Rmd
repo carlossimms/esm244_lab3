@@ -25,7 +25,7 @@ library(jtools) # To make some quick graphs of model outputs.
 penguins %>% 
   select(species, 
          bill_length_mm:sex) %>% 
-  ggpairs(aes(color = species)) # Gives alot of different relevant relationships and information between the selected variables.
+  ggpairs(aes(color = species)) # Gives a lot of different relevant relationships and information between the selected variables.
 ```
 
 **Create a data subset with only Adelie and Chinstrap penguins.**

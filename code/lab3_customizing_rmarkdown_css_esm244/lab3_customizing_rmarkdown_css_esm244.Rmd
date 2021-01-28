@@ -1,0 +1,43 @@
+---
+title: 'ESM 244 Lab 3 Part 2: Customizing Your R Markdown With CSS'
+author: "Carlos Simms"
+date: "1/27/2021"
+output: 
+  html_document:
+    css: "lab3_style_css_esm244.css"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## LEVEL TWO HEADER
+
+### Level Three Header
+
+#### level four header
+
+regular body text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

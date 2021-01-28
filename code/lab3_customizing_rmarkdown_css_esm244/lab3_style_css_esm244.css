@@ -1,0 +1,23 @@
+/* Import Google fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Hanalei&family=Potta+One&display=swap');
+
+/* Update headers */
+
+h2 {
+  font-family: "Hanalei";
+  font-size: 40px;
+  color: purple;
+}
+
+h3 {
+  font-family: "Potta One";
+  font-size: 25px;
+  color: magenta;
+}
+
+body {
+  font-family: "Hanalei";
+  font-size: 18px;
+  color: teal;
+}
